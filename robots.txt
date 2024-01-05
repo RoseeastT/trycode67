@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://mposlot77.de-rse.org/sitemap.xml
+Sitemap : http://mpo09.rulebasedintegration.org/
